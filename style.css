@@ -99,7 +99,7 @@ body{
 
 #PricingTable h3{
 	background-color: #eee;
-	background-image: linear-gradient(red,#eee);
+	background-image: linear-gradient(#fff,#eee);
 	font-weight: normal;
 	font-size: 20px;
 	padding: 20px;
