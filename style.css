@@ -114,4 +114,13 @@ body{
 	width: 100px;
 	height: 100px;
 	border-radius: 100px;
+	margin: 10px auto -60px;
+	box-shadow: 0 5px 20px #ddd inset, 0 3px 0 #999 inset;
+	border: 5px solid #fff;
+}
+
+#PricingTable .signup{
+	padding: 10px;
+	display: block;
+	background-color: green;
 }
